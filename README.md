@@ -1,1 +1,3 @@
-# Multimedia_lab
+# Multimedia
+
+Хомяков Иван Андреевич М8О-407Б-21
